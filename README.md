@@ -60,5 +60,4 @@ Note : First run backend in one terminal and then run Frontend in another Termin
 
 Download folder completely as zip from Github.
 
-# Dashboard-complete-Quiz-2
 Smart Weather App 3
